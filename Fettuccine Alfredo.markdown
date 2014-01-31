@@ -1,6 +1,6 @@
-Title: Fettuccine Alfredo   
+Title: Fettuccine Alfredo  
 Author: Michael Ruhlman  
-Source: http://blog.ruhlman.com/2010/04/fettuccine-alfredo-recipe.html  
+Source: http://blog.ruhlman.com/2010/04/fettuccine-alfredo-recipe.html
 
 # Ingredients
 

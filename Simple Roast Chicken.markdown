@@ -1,6 +1,6 @@
-Title: Simple Roast Chicken 
-Author: Thomas Keller
-Source: Bouchon, http://www.epicurious.com/recipes/food/views/My-Favorite-Simple-Roast-Chicken-231348#ixzz0l8BurFIW 
+Title: Simple Roast Chicken  
+Author: Thomas Keller  
+Source: Bouchon, http://www.epicurious.com/recipes/food/views/My-Favorite-Simple-Roast-Chicken-231348#ixzz0l8BurFIW
 
 # Ingredients
 

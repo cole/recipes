@@ -1,5 +1,5 @@
-Title: Kale Salad with Parmesan and Lemon
-Author: Jean-Georges Vongerichten
+Title: Kale Salad with Parmesan and Lemon  
+Author: Jean-Georges Vongerichten  
 Source: http://www.seriouseats.com/recipes/2012/05/jean-george-vongerichtens-kale-salad-nougatine-recipe.html
 
 # Ingredients
